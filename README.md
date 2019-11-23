@@ -13,4 +13,4 @@ npm i
 
 node app.js
 
-Navigate to http://localhost:3000.
+Navigate to http://localhost:3000
