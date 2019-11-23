@@ -1,0 +1,6 @@
+.env
+package-lock.json
+anonymous-cli-metrics.json
+_cache
+_locks
+node_moduls
